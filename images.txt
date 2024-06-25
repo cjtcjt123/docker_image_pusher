@@ -8,3 +8,4 @@ o2oa/o2server
 nocobase/nocobase
 mysql
 bitnami/appsmith
+budibase/budibase
