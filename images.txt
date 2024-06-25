@@ -9,3 +9,4 @@ nocobase/nocobase
 mysql
 bitnami/appsmith
 budibase/budibase
+budibase/budibase:2.29.1-sqs
