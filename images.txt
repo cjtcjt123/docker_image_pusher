@@ -10,3 +10,4 @@ mysql
 bitnami/appsmith
 budibase/budibase
 budibase/budibase:2.29.1-sqs
+likeshop/likeadmin_java:1.5.0
