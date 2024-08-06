@@ -16,4 +16,4 @@ cloudtogouser/pageplug-ce
 cloudtogouser/pageplug-ce:v1.9.35
 ahdev0/drawdb
 ahdev0/drawdb:v1.0.1
-1panel/maxkb
+maxkb
